@@ -43,7 +43,7 @@ mvn test
 
 ## Testing
 
-*Testing is using postman
+*Rest api- testing is doing using postman
 Sample request
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/a08bac24b9bf465da1da)
 
