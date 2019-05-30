@@ -4,6 +4,7 @@ This is a simple SpringBoot application that implements a discount service for a
 
 # Info
 * The application is intialise using https://start.spring.io/
+* The application is an example of MVC restservices
 * The application uses H2 in memory database to store the users and items/products
 * The h2 db console is published under the URL http://localhost:9090/h2-console
 * The application is build on Java 1.8
