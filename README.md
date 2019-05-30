@@ -42,3 +42,11 @@ mvn test
 ```
 
 ## Testing
+
+*Testing is using postman
+Sample request
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/a08bac24b9bf465da1da)
+
+![alt text](https://github.com/hissamus/discount-demo/blob/master/src/main/resources/static/Capture1.JPG)
+![alt text](https://github.com/hissamus/discount-demo/blob/master/src/main/resources/static/Capture2.JPG)
+![alt text](https://github.com/hissamus/discount-demo/blob/master/src/main/resources/static/Capture3.JPG)
